@@ -8,7 +8,7 @@ pythermalcomfort |  Thermal comfort calculation based on ISO and ASHRAE standard
 uncertainties | Calculation with uncertainties number from measurement  | `https://uncertainties-python-package.readthedocs.io`
 ---
 
-# List of Data Science and Machine Learning Package
+# List of Data Science and Machine Learning Python Package
 Name | Function | URL
 --- | --- | ---
 lux | Interactive visual data exploration | `https://github.com/lux-org/lux`
@@ -24,3 +24,5 @@ Name | Function | URL
 Psychometric Chart | Psychometric chart mapping |`https://drajmarsh.bitbucket.io/psychro-chart2d.html`
 CBE Thermal Comfort Tool | Thermal comfort simulation |`https://comfort.cbe.berkeley.edu`
 ---
+
+__Collected with ❤️ by Sakti Prawira (2021)__
